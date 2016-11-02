@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.jaiky.publishpopup.MainActivity">
+    <LinearLayout
+        android:id="@+id/llBtnMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:clickable="true"
+        android:gravity="bottom|center_horizontal"
+        android:orientation="vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" >
+
+        <ImageView
+            android:id="@+id/ivMenu"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_marginBottom="4dp"
+            android:contentDescription="@null"
+            android:src="@drawable/mainactivity_publish_publish" />
+    </LinearLayout>
+</RelativeLayout>
