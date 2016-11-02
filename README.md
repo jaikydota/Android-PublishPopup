@@ -1,4 +1,4 @@
-![gif](https://github.com/jaikydota/Android-PublishPopup/blob/master/Demo/GIF1.gif)  
+![gif](https://github.com/jaikydota/Android-PublishPopup/blob/master/Demo/GIF.gif)  
 
 
 # Android-ReplayDialog
