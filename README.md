@@ -13,5 +13,3 @@ Hello my friends!<br>
 This is a very simple small project, so I don't upload it to 'jcenter' or 'Maven Center'.<br>
 Please download it and deploy to your Android Studio.<br>
 Using this demo, you will know how to achieve.<br>
-And my english is very bad, so I can only write so many.<br>
-Hope there is no syntax error?<br>
